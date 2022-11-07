@@ -1,0 +1,22 @@
+.memo__container {
+    margin: 20px;
+}
+
+.memo__items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.memo__item {
+    border: 1px solid #ccc;
+    width: 30px;
+}
+
+.memo__actions {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin-bottom: 20px;
+}
